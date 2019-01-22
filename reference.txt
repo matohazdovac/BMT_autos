@@ -1,7 +1,0 @@
-[1] IEEE, How to Cite References: IEEE Documentation Style, [Online]. Dostupno na: 
-https://ieee-dataport.org/sites/default/files/analysis/27/IEEE%20Citation%20Guidelines.pdf   
-[2] Sparx Services Central Europe, [Online]. Dosptupno na:
-https://sparxsystems.com/partners/sisters/sparx-services-central-europe.html 
-[3] Creating and using a database, [Online]. Dostupno na:   https://dev.mysql.com/doc/refman/8.0/en/database-use.html 
-[4] Github na kojem je spremljen cijeli projekt. Dostupno na:
-https://github.com/matohazdovac/BMT_autos
